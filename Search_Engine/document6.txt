@@ -1,0 +1,5 @@
+This is especially important if you are planning on looking at the C# target
+that we have implemented (more on that in ¡×1.7) which makes extensive use
+of the OO concepts listed above. As a final note it is also desirable that the
+reader is familiar with interfaces as the C# target uses interfaces throughout
+the sorting algorithms.

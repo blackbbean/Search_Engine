@@ -1,0 +1,8 @@
+As you become more familiar with the actual problem you will be able to
+intuitively identify areas which may cause problems for your algorithms implementation.
+This in some cases will yield an overwhelming list of concerns which
+will hinder your ability to design an algorithm greatly. When you are bombarded
+with such a vast amount of concerns look at the overall problem again
+and sub-divide the problem into smaller problems. Solving the smaller problems
+and then composing them is a far easier task than clouding your mind with too
+many little details.

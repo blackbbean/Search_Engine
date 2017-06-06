@@ -1,0 +1,8 @@
+Most algorithms in this book require parameters, and because we assign no
+explicit type to those parameters the type is inferred from the contexts in which
+it is used, and the operations performed upon it. Additionally, the name of
+the parameter usually acts as the biggest clue to its type. For instance n is a
+pseudo-name for a number and so you can assume unless otherwise stated that
+n translates to an integer that has the same number of bits as a WORD on a
+32 bit machine, similarly l is a pseudo-name for a list where a list is a resizeable
+array (e.g. a vector).
