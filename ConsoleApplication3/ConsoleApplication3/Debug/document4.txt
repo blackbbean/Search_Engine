@@ -1,0 +1,12 @@
+Big Oh notation also acts as a communication tool. Picture the scene: you
+are having a meeting with some fellow developers within your product group.
+You are discussing prototype algorithms for node discovery in massive networks.
+Several minutes elapse after you and two others have discussed your respective
+algorithms and how they work. Does this give you a good idea of how fast each
+respective algorithm is? No. The result of such a discussion will tell you more
+about the high level algorithm design rather than its efficiency. Replay the scene
+back in your head, but this time as well as talking about algorithm design each
+respective developer states the asymptotic run time of their algorithm. Using
+the latter approach you not only get a good general idea about the algorithm
+design, but also key efficiency data which allows you to make better choices
+when it comes to selecting an algorithm fit for purpose.

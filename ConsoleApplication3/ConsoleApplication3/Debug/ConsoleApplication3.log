@@ -1,0 +1,40 @@
+﻿  Search_Engine.c
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(38): warning C4996: 'putch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(461): note: 'putch' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(61): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1192): note: 'fscanf' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(81): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(93): warning C4101: 'compare' :참조되지 않은 지역 변수입니다.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(154): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\minjeong kim\desktop\search_engine-master\search_engine-master\search_engine\search_engine.c(143): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+  ConsoleApplication3.vcxproj -> C:\Users\Minjeong Kim\Documents\Visual Studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Minjeong Kim\Documents\Visual Studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)

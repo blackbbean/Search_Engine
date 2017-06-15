@@ -1,0 +1,13 @@
+Some readers may actually work in a product group where they are given
+budgets per feature. Each feature holds with it a budget that represents its uppermost
+time bound. If you save some time in one feature it doesn¡¯t necessarily
+give you a buffer for the remaining features. Imagine you are working on an
+application, and you are in the team that is developing the routines that will
+essentially spin up everything that is required when the application is started.
+Everything is great until your boss comes in and tells you that the start up
+time should not exceed n ms. The efficiency of every algorithm that is invoked
+during start up in this example is absolutely key to a successful product. Even
+if you don¡¯t have these budgets you should still strive for optimal solutions.
+Taking a quantitative approach for many software development properties
+will make you a far superior programmer - measuring one¡¯s work is critical to
+success.

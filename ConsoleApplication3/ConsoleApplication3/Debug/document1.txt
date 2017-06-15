@@ -1,0 +1,17 @@
+As with most books you get out what you put in and so we recommend that in
+order to get the most out of this book you work through each algorithm with a
+pen and paper to track things like variable names, recursive calls etc.
+The best way to work through algorithms is to set up a table, and in that
+table give each variable its own column and continuously update these columns.
+This will help you keep track of and visualise the mutations that are occurring
+throughout the algorithm. Often while working through algorithms in such
+a way you can intuitively map relationships between data structures rather
+than trying to work out a few values on paper and the rest in your head. We
+suggest you put everything on paper irrespective of how trivial some variables
+and calculations may be so that you always have a point of reference.
+When dealing with recursive algorithm traces we recommend you do the
+same as the above, but also have a table that records function calls and who
+they return to. This approach is a far cleaner way than drawing out an elaborate
+map of function calls with arrows to one another, which gets large quickly and
+simply makes things more complex to follow. Track everything in a simple and
+systematic way to make your time studying the implementations far easier.

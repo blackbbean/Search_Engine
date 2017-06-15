@@ -1,0 +1,9 @@
+The example above describes an algorithm by the name of AlgorithmName,
+which takes a single numeric parameter n. The pre and post conditions follow
+the algorithm signature; you should always enforce the pre-conditions of an
+algorithm when porting them to your language of choice.
+Normally what is listed as a pre-conidition is critical to the algorithms operation.
+This may cover things like the actual parameter not being null, or that the
+collection passed in must contain at least n items. The post-condition mainly
+describes the effect of the algorithms operation. An example of a post-condition
+might be ¡°The list has been sorted in ascending order¡±

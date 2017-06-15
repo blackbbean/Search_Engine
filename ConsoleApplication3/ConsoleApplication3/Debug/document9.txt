@@ -1,0 +1,9 @@
+The previous list represents what we believe in the vast majority of cases to
+be the most important for each respective data structure.
+For all readers we recommend that before looking at any algorithm you
+quickly look at Appendix E which contains a table listing the various symbols
+used within our algorithms and their meaning. One keyword that we would like
+to point out here is yield. You can think of yield in the same light as return.
+The return keyword causes the method to exit and returns control to the caller,
+whereas yield returns each value to the caller. With yield control only returns
+to the caller when all values to return to the caller have been exhausted.
